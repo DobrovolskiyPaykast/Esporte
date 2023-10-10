@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Esporte</string>
+    <string name="error_internen_conn">Please check your internet connection and try again</string>
+
+</resources>

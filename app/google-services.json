@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712691009699",
+    "project_id": "dcjndi",
+    "storage_bucket": "dcjndi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712691009699:android:6e11c38e68a7d14459d716",
+        "android_client_info": {
+          "package_name": "com.ESPORTE.growimgs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE1EKQEQFaCASMYsP_kFDDrh5q296LTeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
